@@ -47,6 +47,8 @@ Here are the key files related to this project:
 
 6. **Submission**: After obtaining satisfactory results, I created submission files following the required format.
 
+For more details on my approach and analysis, you can check the accompanying notebook [EY_Carbon_Prediction.ipynb](EY_Carbon_Prediction.ipynb).
+
 ## Results 📈
 
 I am pleased to share that I achieved a ranking in the top 50% of participants in the UmojaHack Africa 2023 challenge. My predictive model demonstrated promising results in estimating carbon emissions.
