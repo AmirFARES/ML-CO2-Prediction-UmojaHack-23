@@ -46,8 +46,8 @@ Here are the key files related to this project:
 5. **Validation**: I used cross-validation techniques to assess model performance and avoid overfitting.
 
 6. **Submission**: After obtaining satisfactory results, I created submission files following the required format.
-
-For more details on my approach and analysis, you can check the accompanying notebook [EY_Carbon_Prediction.ipynb](EY_Carbon_Prediction.ipynb).
+ss
+For more details on my approach and analysis, you can check the accompanying notebook [EY_Carbon_Prediction.ipynb](./EY_Carbon_Prediction.ipynb).
 
 ## Results 📈
 
