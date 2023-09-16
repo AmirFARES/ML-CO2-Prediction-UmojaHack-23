@@ -1,6 +1,6 @@
 # UmojaHack Africa 2023: Carbon Dioxide Prediction Challenge (BEGINNER) 🌍📊
 
-![UmojaHack Logo](https://zindi.africa/static/images/logos/zindi_black_text.png)
+![Zindi Logo](https://assets.zindi.africa/media/5fa182eff0cce505692370a60ce4c6ed.png)
 
 ## Introduction 🌟
 
@@ -61,7 +61,7 @@ As I continue to develop my data science and machine learning skills, I plan to 
 
 ## Connect with Me 📫
 
-I'm always eager to collaborate and learn from others in the data science community. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourname) or [GitHub](https://github.com/yourusername).
+I'm always eager to collaborate and learn from others in the data science community. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amir-f) or [GitHub](https://github.com/AmirFARES).
 
 ## Acknowledgments 🙏
 
@@ -69,7 +69,5 @@ I'd like to express my gratitude to the organizers of the UmojaHack Africa 2023 
 
 Thank you for visiting my portfolio, and I look forward to sharing more data science projects with you in the future! 🚀✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourname)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/yourusername)
-
-![Data Science is Awesome](https://media.giphy.com/media/26FmR6S4K8vvN1d4o/giphy.gif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/amir-f)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/AmirFARES)
